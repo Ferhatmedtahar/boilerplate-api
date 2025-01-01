@@ -11,7 +11,7 @@ omed-api is a CLI tool that generates a boilerplate for building APIs using Expr
 
 ## how to use 
 ```bash
-npm install -g pmed-api
+npm install -g omed-api
 ```
 or 
 ```
