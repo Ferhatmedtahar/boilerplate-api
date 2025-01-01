@@ -1,5 +1,5 @@
 {
-  "name": "express-api",
+  "name": "omed-api",
   "bin": "./index.js",
   "description": "CLI tool to generate express api boilerplate code with jwt authentication , mongoose and user , product , models and validation",
   "version": "1.0.0",
